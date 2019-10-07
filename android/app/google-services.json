@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94585453450",
+    "firebase_url": "https://pogosearchgenerator.firebaseio.com",
+    "project_id": "pogosearchgenerator",
+    "storage_bucket": "pogosearchgenerator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94585453450:android:94901d26dc00c339186673",
+        "android_client_info": {
+          "package_name": "com.whiitetech.PoGoSearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94585453450-nrs35b8cfkct7hi7jdlhiks0hj2smogd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGvS-X6KHT0FCoLeSEqBiCeilgbPvRlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94585453450-nrs35b8cfkct7hi7jdlhiks0hj2smogd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
