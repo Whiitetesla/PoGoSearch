@@ -2,6 +2,9 @@
 
 App to help create search strings in Pokemon GO
 
+Mockup of the project design
+https://drive.google.com/file/d/1c23Yh1HQZ3SZmkPfDGKBokEHq78_wHCa/view?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
