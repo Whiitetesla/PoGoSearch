@@ -72,14 +72,13 @@ Future<String> createSearchString(String url, {Map body}) async {
   });
 }
 
-Future<String> fetchTypes(String url) {
+Future<List<dynamic>> fetchTypes(String url) {
   return http.get(url).then((http.Response response) {
     final int statusCode = response.statusCode;
 
     if (statusCode < 200 || statusCode > 400 || json == null) {
       throw new Exception("Error while fetching data");
     }
-
-    return json.decode(response.body).toString();
+    return json.decode(response.body);
   });
 }
